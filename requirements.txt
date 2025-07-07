@@ -1,5 +1,5 @@
 streamlit
-pytorch
+torch
 pandas
 numpy
 scikit
